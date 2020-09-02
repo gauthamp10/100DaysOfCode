@@ -4,3 +4,24 @@ Each bit in n will specify whether or not to swap the case for each alphabetic c
 
 You should skip the checking of bits when a non-alphabetic character is encountered, but they should be preserved in their original positions."""
 
+from itertools import cycle
+
+def swap(word,num):
+    bins = cycle(bin(num)[2:])
+    res = ""
+    for letter in word:
+        if letter.isalpha() and int(next(bins)) == 1:
+            res+=letter.swapcase()
+        else:
+            res+=letter
+    return res
+
+def test_cases():
+    assert swap('Hello world!', 11) ==  'heLLO wORLd!'
+    assert swap("gOOd MOrniNg", 7864) == "GooD MorNIng"
+    assert swap('', 11345) == ''
+    assert swap('the lord of the rings', 0) == 'the lord of the rings'
+    print('Test Successfull')
+ 
+
+test_cases()
