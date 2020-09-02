@@ -1,4 +1,4 @@
 ## Daily Progress 
-| Day | Date | Created | Learned |
+| Day | Date | Problem | Learned |
 | --- | --- | --- | --- |
-| 1 | Sep 01, 2020 | 
+| 1 | Sep 01, 2020 | Exercises | range(), join(), cycle() and linting |
