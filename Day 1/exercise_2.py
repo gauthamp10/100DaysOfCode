@@ -21,7 +21,7 @@ def test_cases():
     assert swap("gOOd MOrniNg", 7864) == "GooD MorNIng"
     assert swap('', 11345) == ''
     assert swap('the lord of the rings', 0) == 'the lord of the rings'
-    print('Test Successfull')
+    print(f"Test Successfull")
  
 
 test_cases()
