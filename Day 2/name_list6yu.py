@@ -19,7 +19,7 @@ def namelist(names):
     return res
 
 def test_cases():
-    """Some useful test cases for th problem"""
+    """Some useful test cases for the problem"""
     assert namelist([{'name': 'Bart'},{'name': 'Lisa'},\
         {'name': 'Maggie'},{'name': 'Homer'},{'name': 'Marge'}]) \
             == 'Bart, Lisa, Maggie, Homer & Marge'

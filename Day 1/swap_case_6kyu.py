@@ -19,11 +19,11 @@ def swap(word, num):
     return res
 
 def test_cases():
-    """Some useful test cases for th problem"""
+    """Some useful test cases for the problem"""
     assert swap('Hello world!', 11) == 'heLLO wORLd!'
     assert swap("gOOd MOrniNg", 7864) == 'GooD MorNIng'
     assert swap('', 11345) == ''
     assert swap('the lord of the rings', 0) == 'the lord of the rings'
-    print(f"Test Successfull")
+    print("Test Successfull")
 
 test_cases()
