@@ -1,4 +1,4 @@
-# Editors
+git reset --soft HEAD~1# Editors
 .vscode/
 .idea/
 
