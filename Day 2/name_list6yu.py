@@ -8,3 +8,4 @@ def namelist(names):
             return ''
         elif len(names) == 1:
             return namedict['name']
+
