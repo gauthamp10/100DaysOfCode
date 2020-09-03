@@ -1,7 +1,7 @@
 # 100 Days Of Code Challenge (Sept 2, 2020 - Dec 11, 2020)
 Repo for my #100DaysOfCode Challenge
 
-## Daily Progress 
+
 | Day | Date | Problems | Learned |
 | --- | --- | --- | --- |
 | [1](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%201) | [Sep 01, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%201/README.md) | Codewars | range(), join(), cycle() and linting |
