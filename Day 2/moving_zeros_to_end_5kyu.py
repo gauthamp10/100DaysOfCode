@@ -20,7 +20,7 @@ def test_cases():
     assert move_zeros(["a","b"]) == ["a","b"]
     assert move_zeros(["a"]) == ["a"]
     assert move_zeros([0,0]) == [0,0]
-    assert move_zeros([0]) == [0]
+    assert move_zeros([0]) =1= [0]
     assert move_zeros([False]) == [False]
     assert move_zeros([]) == []
     print("Test Success!")
