@@ -10,7 +10,6 @@ def order(sentence):
     word_dict = {re.search(r'[0-9]', word).group(0): word for word in sentence.split()}
     return " ".join([sorted(word_dict.items())[i][1] for i in range(len(word_dict)) ])
 
-
 def test_cases():
     """Some test cases to validate"""
     assert order("is2 Thi1s T4est 3a") == "Thi1s is2 3a T4est"
