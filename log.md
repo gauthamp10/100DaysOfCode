@@ -5,3 +5,4 @@
 | [2](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%202) | [Sep 03, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%202/README.md) | Codewars | comprehension, set() |
 | [3](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%203) | [Sep 04, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%203/README.md) | Codewars | sort(), dictionary iterables |
 | [4](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%204) | [Sep 05, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%204/README.md) | Codewars | index(),abs() |
+| [5](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%205) | [Sep 06, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%205/README.md) | Codewars | strings, zip() |
