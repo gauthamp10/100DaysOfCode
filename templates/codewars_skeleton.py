@@ -2,11 +2,11 @@
 
 def function():
     """Docstring"""
-    pass
+    return ''
 
 def test_cases():
     """Sample test cases"""
     assert function() == ''
     print("Test Success!")
 
-test_cases() 
+test_cases()
