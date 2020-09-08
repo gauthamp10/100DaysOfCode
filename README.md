@@ -10,4 +10,4 @@ Repo for my #100DaysOfCode Challenge
 | [4](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%204) | [Sep 05, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%204/README.md) | Codewars | index(),abs() |
 | [5](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%205) | [Sep 06, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%205/README.md) | Codewars | strings, zip() |
 | [6](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%206) | [Sep 07, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%206/README.md) | Codewars | **args, Counter() |
-| [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%207) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/README.md) | Jupyter, Codewars | map,reduce,filter,lambda |
+| [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%207) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/README.md) | Jupyter, Codewars | map, reduce, filter, lambda |
