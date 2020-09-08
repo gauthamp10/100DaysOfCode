@@ -10,4 +10,4 @@ It felt awesome to go with one-liners whenever possible.
 
 [detect_pangram_6kyu.py](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/detect_pangram_6kyu.py)  ([Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048))
 
-[map_filter_reduce_lambda.ipynb](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/map_filter_reduce_lambda.ipynb)  :metal Some functional programming in python
+[map_filter_reduce_lambda.ipynb](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/map_filter_reduce_lambda.ipynb)  :metal: Some functional programming in python
