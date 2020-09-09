@@ -8,3 +8,4 @@
 | [5](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%205) | [Sep 06, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%205/README.md) | Codewars | strings, zip() |
 | [6](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%206) | [Sep 07, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%206/README.md) | Codewars | **args, Counter() |
 | [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%207) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/README.md) | Jupyter, Codewars | map, reduce, filter, lambda |
+| [8](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%208) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%208/README.md) | Datastructures | Stack |
