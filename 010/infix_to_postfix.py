@@ -15,7 +15,7 @@ def infix_to_postfix(infix):
     is_operand = lambda char: char.isalpha() or char.isnumeric()
 
     # Returns the precedence of char from PRIORITY dict"""
-    PRIORITY = {"+": 1, "-": 1, "*": 2, "/": 2, "^": 3}
+    PRIORITY = {"+": 1, "-": 1, "*": 2, "/": 2, "%": 2, "^": 3}
     precedence = lambda char: PRIORITY[char] if char in PRIORITY else -1
 
     for char in infix:
