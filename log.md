@@ -10,3 +10,4 @@
 | [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%207) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/README.md) | Jupyter, Codewars | map, reduce, filter, lambda |
 | [8](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%208) | [Sep 09, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%208/README.md) | Data structures | Stack |
 | [9](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%209) | [Sep 10, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%209/README.md) | Data structures |  Postfix, Prefix |
+| [10](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%2010) | [Sep 11, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%2010/README.md) | Data structures |  Infix conversions |
