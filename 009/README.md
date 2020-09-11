@@ -1,4 +1,4 @@
-### Data structure Intoduction
+### Data structure Introduction
 
 Implemented a postfix and prefix expression evaluator based on the MyStack class created on Day 8
 
