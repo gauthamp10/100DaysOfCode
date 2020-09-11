@@ -1,5 +1,5 @@
 """A funciton to convert a given infix expression
-to postfix expression using Shunting Yard Algorithm"""
+to prefix expression using Shunting Yard Algorithm"""
 
 from stack import MyStack
 
@@ -24,7 +24,7 @@ def convert_to_prefix(postfix):
 
 def infix_to_prefix(infix):
     """Converts given infix expression to postfix expression
-       using Shunting Yard Algorithm"""
+       using Shunting Yard Algorithm and converts that postfix to prefix"""
 
     if infix == "":
         return ""
