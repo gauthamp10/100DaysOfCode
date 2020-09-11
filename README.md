@@ -13,4 +13,4 @@ Repo for my #100DaysOfCode Challenge
 | [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/007) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/007/README.md) | Jupyter, Codewars | map, reduce, filter, lambda |
 | [8](https://github.com/gauthamp10/100DaysOfCode/tree/master/008) | [Sep 09, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/008/README.md) | Data structures | Stack |
 | [9](https://github.com/gauthamp10/100DaysOfCode/tree/master/009) | [Sep 10, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/009/README.md) | Data structures |  Postfix, Prefix |
-| [10](https://github.com/gauthamp10/100DaysOfCode/tree/master/0010) | [Sep 11, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/0010/README.md) | Data structures |  Infix conversions |
+| [10](https://github.com/gauthamp10/100DaysOfCode/tree/master/010) | [Sep 11, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/010/README.md) | Data structures |  Infix conversions |
