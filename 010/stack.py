@@ -44,6 +44,10 @@ class MyStack:
         """Check if item is present"""
         return item in self.stack
 
+    def clear_stack(self):
+        """Empty stack items"""
+        self.stack.clear()
+
 
 if __name__ == "__main__":
     """Stack object creation"""
@@ -65,3 +69,5 @@ if __name__ == "__main__":
     #bool([stack.pop() for i in range(stack.find_size()+1)])
     CHECK_NUM= 777
     print("{} :{}".format("Is "+str(CHECK_NUM)+" present in stack?",stack.find_item(CHECK_NUM)))
+    stack.clear_stack()
+    print("Empty stack:", stack)
