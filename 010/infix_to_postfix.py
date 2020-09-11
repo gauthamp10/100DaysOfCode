@@ -3,19 +3,20 @@ to postfix expression using Shunting Yard Algorithm"""
 
 from stack import MyStack
 
-# Returns True if char is an operand
-is_operand = lambda char: char.isalpha() or char.isnumeric()
-
-# Returns the precedence of char from PRIORITY dict"""
-PRIORITY = {"+": 1, "-": 1, "*": 2, "/": 2, "^": 3}
-precedence = lambda char: PRIORITY[char] if char in PRIORITY else -1
-
 def infix_to_postfix(infix):
     """Converts given infix expression to postfix expression
        using Shunting Yard Algorithm"""
+    
+    #stack to temporarily store operators and paranthesis
+    stack = MyStack(size= len(infix)+1) 
+    postfix = []                      # a list to store postifix expression
+    
+    # Returns True if char is an operand
+    is_operand = lambda char: char.isalpha() or char.isnumeric()
 
-    stack = MyStack(size= len(infix)+1) #stack to temporarily store operators and paranthesis
-    postfix = []  #list to store postifix expression
+    # Returns the precedence of char from PRIORITY dict"""
+    PRIORITY = {"+": 1, "-": 1, "*": 2, "/": 2, "^": 3}
+    precedence = lambda char: PRIORITY[char] if char in PRIORITY else -1
 
     for char in infix:
         if is_operand(char):
