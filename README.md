@@ -4,13 +4,13 @@ Repo for my #100DaysOfCode Challenge
 ### Daily Progress 
 | Day | Date | Problems | Learned |
 | --- | --- | --- | --- |
-| [1](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%201) | [Sep 02, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%201/README.md) | Codewars | range(), join(), cycle() and linting |
-| [2](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%202) | [Sep 03, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%202/README.md) | Codewars | comprehension, set() |
-| [3](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%203) | [Sep 04, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%203/README.md) | Codewars | sort(), dictionary iterables |
-| [4](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%204) | [Sep 05, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%204/README.md) | Codewars | index(),abs() |
-| [5](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%205) | [Sep 06, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%205/README.md) | Codewars | strings, zip() |
-| [6](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%206) | [Sep 07, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%206/README.md) | Codewars | **args, Counter() |
-| [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%207) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%207/README.md) | Jupyter, Codewars | map, reduce, filter, lambda |
-| [8](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%208) | [Sep 09, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%208/README.md) | Data structures | Stack |
-| [9](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%209) | [Sep 10, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%209/README.md) | Data structures |  Postfix, Prefix |
-| [10](https://github.com/gauthamp10/100DaysOfCode/tree/master/Day%2010) | [Sep 11, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/Day%2010/README.md) | Data structures |  Infix conversions |
+| [1](https://github.com/gauthamp10/100DaysOfCode/tree/master/001) | [Sep 02, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/001/README.md) | Codewars | range(), join(), cycle() and linting |
+| [2](https://github.com/gauthamp10/100DaysOfCode/tree/master/002) | [Sep 03, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/002/README.md) | Codewars | comprehension, set() |
+| [3](https://github.com/gauthamp10/100DaysOfCode/tree/master/003) | [Sep 04, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/003/README.md) | Codewars | sort(), dictionary iterables |
+| [4](https://github.com/gauthamp10/100DaysOfCode/tree/master/004) | [Sep 05, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/004/README.md) | Codewars | index(),abs() |
+| [5](https://github.com/gauthamp10/100DaysOfCode/tree/master/005) | [Sep 06, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/005/README.md) | Codewars | strings, zip() |
+| [6](https://github.com/gauthamp10/100DaysOfCode/tree/master/006) | [Sep 07, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/006/README.md) | Codewars | **args, Counter() |
+| [7](https://github.com/gauthamp10/100DaysOfCode/tree/master/007) | [Sep 08, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/007/README.md) | Jupyter, Codewars | map, reduce, filter, lambda |
+| [8](https://github.com/gauthamp10/100DaysOfCode/tree/master/008) | [Sep 09, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/008/README.md) | Data structures | Stack |
+| [9](https://github.com/gauthamp10/100DaysOfCode/tree/master/009) | [Sep 10, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/009/README.md) | Data structures |  Postfix, Prefix |
+| [10](https://github.com/gauthamp10/100DaysOfCode/tree/master/0010) | [Sep 11, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/0010/README.md) | Data structures |  Infix conversions |
