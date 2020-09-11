@@ -70,4 +70,4 @@ if __name__ == "__main__":
     CHECK_NUM= 777
     print("{} :{}".format("Is "+str(CHECK_NUM)+" present in stack?",stack.find_item(CHECK_NUM)))
     stack.clear_stack()
-    print("Empty stack:", stack)
+    print("Emptied stack:", stack)
