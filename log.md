@@ -11,6 +11,5 @@
 | [8](https://github.com/gauthamp10/100DaysOfCode/tree/master/008) | [Sep 09, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/008/README.md) | Data structures | Stack |
 | [9](https://github.com/gauthamp10/100DaysOfCode/tree/master/009) | [Sep 10, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/009/README.md) | Data structures |  Postfix, Prefix |
 | [10](https://github.com/gauthamp10/100DaysOfCode/tree/master/010) | [Sep 11, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/010/README.md) | Data structures |  Infix conversions |
-com/gauthamp10/100DaysOfCode/blob/master/009/README.md) | Data structures |  Postfix, Prefix |
 | [11](https://github.com/gauthamp10/100DaysOfCode/tree/master/011) | [Sep 12, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/011/README.md) | Website |  html5 video |
-| [12](https://github.com/gauthamp10/100DaysOfCode/tree/master/012) | [Sep 13, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/013/README.md) | Website |  html5 video |
+| [12](https://github.com/gauthamp10/100DaysOfCode/tree/master/012) | [Sep 13, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/012/README.md) | Website |  html5 video |
