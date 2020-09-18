@@ -10,7 +10,7 @@ def test_cases():
     assert binary_array_to_number([0,0,0,1]) == 1
     assert binary_array_to_number([0,0,1,0]) == 2
     assert binary_array_to_number([1,1,1,1]) == 15
-    assert binary_array_to_number([0,1,1,0]) == 6
+    assert binary_array_to_number([0,1,1,0]) == 6  
     print("Test Success!")
 
 test_cases()
