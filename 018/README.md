@@ -17,11 +17,11 @@
 - [ayu-vim](https://github.com/ayu-theme/ayu-vim)
 - [bracey](https://github.com/turbio/bracey.vim)
 
-##### Fonts - [Patched Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+##### Fonts - [Patched Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 - [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
 - [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 
 ##### Terminal
-- [tilda](https://github.com/lanoxx/tilda)    # dropdown terminal for projects
-- [konsole](https://konsole.kde.org/)  # default terminal for text edit
+- [tilda](https://github.com/lanoxx/tilda)    dropdown terminal for projects
+- [konsole](https://konsole.kde.org/)      default terminal for text edit
 
