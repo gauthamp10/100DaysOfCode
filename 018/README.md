@@ -6,6 +6,7 @@
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [vim-nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs)
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+- [fugitive.vim](https://github.com/tpope/vim-fugitive)
 - [syntastic](https://github.com/vim-syntastic/syntastic)
 - [ctrlp](https://github.com/kien/ctrlp.vim)
 - [powerline](https://github.com/Lokaltog/vim-powerline)
