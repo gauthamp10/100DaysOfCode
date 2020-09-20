@@ -19,3 +19,5 @@
 | [16](https://github.com/gauthamp10/100DaysOfCode/tree/master/016) | [Sep 17, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/016/README.md) | Website + Touch typing | Iframe Tricks |
 | [17](https://github.com/gauthamp10/100DaysOfCode/tree/master/017) | [Sep 18, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/017/README.md) | Codewars | Dictionary methods |
 | [18](https://github.com/gauthamp10/100DaysOfCode/tree/master/018) | [Sep 19, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/018/README.md) | Vim | config |
+| [19](https://github.com/gauthamp10/100DaysOfCode/tree/master/019) | [Sep 20, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/019/README.md) | Website | * |
+
