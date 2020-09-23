@@ -22,4 +22,4 @@
 | [19](https://github.com/gauthamp10/100DaysOfCode/tree/master/019) | [Sep 20, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/019/README.md) | Website | * |
 | [20](https://github.com/gauthamp10/100DaysOfCode/tree/master/020) | [Sep 21, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/020/README.md) | Website | Finished |
 | [21](https://github.com/gauthamp10/100DaysOfCode/tree/master/021) | [Sep 22, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/021/README.md) | Codewars | More on string |
-
+| [22](https://github.com/gauthamp10/100DaysOfCode/tree/master/022) | [Sep 23, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/022/README.md) | Vim as an IDE | Auto installer |
