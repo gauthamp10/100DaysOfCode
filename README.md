@@ -29,3 +29,4 @@ Repo for my #100DaysOfCode Challenge
 | [23](https://github.com/gauthamp10/100DaysOfCode/tree/master/023) | [Sep 24, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/023/README.md) | Python | http vs https |
 | [24](https://github.com/gauthamp10/100DaysOfCode/tree/master/024) | [Sep 25, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/024/README.md) | Codewars | * |
 | [25](https://github.com/gauthamp10/100DaysOfCode/tree/master/025) | [Sep 26, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/025/README.md) | Codewars | * |
+| [26](https://github.com/gauthamp10/100DaysOfCode/tree/master/026) | [Sep 27, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/026/README.md) | Webapp | Flask |
