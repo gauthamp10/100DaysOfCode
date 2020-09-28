@@ -27,4 +27,4 @@
 | [24](https://github.com/gauthamp10/100DaysOfCode/tree/master/024) | [Sep 25, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/024/README.md) | Codewars | * |
 | [25](https://github.com/gauthamp10/100DaysOfCode/tree/master/025) | [Sep 26, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/025/README.md) | Codewars | * |
 | [26](https://github.com/gauthamp10/100DaysOfCode/tree/master/026) | [Sep 27, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/026/README.md) | Webapp | Flask |
-| [27](https://github.com/gauthamp10/100DaysOfCode/tree/master/027) | [Sep 28, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/027/README.md) | Webapp | [link](https://zoomloom.herokuapp.com) |
+| [27](https://github.com/gauthamp10/100DaysOfCode/tree/master/027) | [Sep 28, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/027/README.md) | Webapp | [repo](https://gauthamp10/mldeploy) |
