@@ -1,8 +1,10 @@
 """https://www.codewars.com/kata/5287e858c6b5a9678200083c"""
 
+
 def narcissistic(value):
     """Return True if given number is narcissistic."""
     return sum([int(digit)**len(str(value)) for digit in str(value)]) == value
+
 
 def test_cases():
     """Sample test cases"""
