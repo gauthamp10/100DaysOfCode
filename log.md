@@ -29,3 +29,5 @@
 | [26](https://github.com/gauthamp10/100DaysOfCode/tree/master/026) | [Sep 27, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/026/README.md) | Webapp | Flask |
 | [27](https://github.com/gauthamp10/100DaysOfCode/tree/master/027) | [Sep 28, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/027/README.md) | Webapp | [repo](https://github.com/gauthamp10/mldeploy) |
 | [28](https://github.com/gauthamp10/100DaysOfCode/tree/master/028) | [Sep 29, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/028/README.md) |Bash scripting | * | 
+| [29](https://github.com/gauthamp10/100DaysOfCode/tree/master/029) | [Sep 30, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/029/README.md) |Old projects | refactoring | 
+| [30](https://github.com/gauthamp10/100DaysOfCode/tree/master/030) | [Oct 1, 2020](https://github.com/gauthamp10/100DaysOfCode/blob/master/030/README.md) |Old projects | refactoring | 
